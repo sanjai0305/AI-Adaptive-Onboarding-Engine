@@ -1,0 +1,1 @@
+# SyncPods debug build — no custom shrinking rules.
