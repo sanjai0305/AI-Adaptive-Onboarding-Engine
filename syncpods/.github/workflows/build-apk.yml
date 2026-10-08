@@ -4,6 +4,9 @@ on:
   push:
     branches:
       - syncpods-debug-build
+  pull_request:
+    branches:
+      - main
 
 jobs:
   build:
